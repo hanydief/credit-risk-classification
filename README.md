@@ -16,7 +16,7 @@ To receive all points, you must:
 
 - Split the data into training and testing datasets by using train_test_split. (15 points)
 
-![P1-SplitData]()
+![P1-SplitData](https://github.com/hanydief/credit-risk-classification/blob/main/Credit_Risk/images/P1-SplitData.png)
 
 ## Create a Logistic Regression Model (30 points)
 To receive all points, you must:
@@ -33,8 +33,8 @@ To receive all points, you must:
 
   - Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels? (5 points)
 
-![P2-Logistic-Regression_Original-data]()
-![P3-Logistic-Regression_Resampled_data]()
+![P2-Logistic-Regression_Original-data](https://github.com/hanydief/credit-risk-classification/blob/main/Credit_Risk/images/P2-Logistic-Regression_Original-data.png)
+![P3-Logistic-Regression_Resampled_data](https://github.com/hanydief/credit-risk-classification/blob/main/Credit_Risk/images/P3-Logistic-Regression_Resampled_data.png)
 
 # Write a Credit Risk Analysis Report (20 points)
 To receive all points, you must:
